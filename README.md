@@ -109,10 +109,3 @@ This project demonstrates:
 * Window functions (RANK)
 * Business-oriented data analysis
 
-## Author
-
-Unmukt
-
-## License
-
-This project is created for educational and portfolio purposes.
